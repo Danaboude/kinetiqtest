@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kinetiq_background">#121212</color>
+    <color name="kinetiq_text_primary">#FFFFFF</color>
+    <color name="kinetiq_accent_green">#00FFA3</color>
+    <color name="kinetiq_accent_pink">#FF00E5</color>
+    <color name="kinetiq_accent_blue">#00B2FF</color>
+    <color name="kinetiq_card_background">#1E1E1E</color>
+
+    <!-- Keeping black and white for general use if needed, but kinetiq_text_primary is preferred for main text -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

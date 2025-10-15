@@ -1,0 +1,9 @@
+[
+  {
+    "inputs": [{ "name": "HYPEAmount", "type": "uint256" }],
+    "name": "HYPEToKHYPE",
+    "outputs": [{ "name": "", "type": "uint256" }],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
